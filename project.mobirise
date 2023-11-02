@@ -42,27 +42,28 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "5.9.0",
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
     "usedWebp": true,
     "robotsSwitcher": true,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "sitemapSwitcher": true,
-    "siteUrl": "https://biz.gidzap.ru",
+    "siteUrl": "https://biz.gidzap.ru/",
     "sitemapSwitcherAuto": "on",
     "favicon": false,
-    "mbrsiteDomain": "tosnmte5ue",
+    "mbrsiteDomain": "a3gayqsrwa",
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "site_lang": "ru"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Готовый бизнес автозапчастей с помещением",
+        "meta_descr": "Бизнес по продаже автозапчастей с помещением в собственность! Создание и ведение бизнеса с опытными наставниками команды Gidzap. Уникальное предложение по открытию собственного дела в нише контрактных автозапчастей.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
